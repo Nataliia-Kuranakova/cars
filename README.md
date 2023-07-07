@@ -50,3 +50,8 @@ Follow these steps to install and run the project:
 - [Redux Toolkit](https://redux-toolkit.js.org/) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) - A powerful data fetching and caching tool
 - [MUI](https://mui.com/) - A popular React UI framework
+
+## Deployed Version
+```
+https://nataliia-kuranakova.github.io/cars/
+```
